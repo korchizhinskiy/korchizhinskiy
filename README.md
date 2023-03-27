@@ -43,9 +43,3 @@ I am a Back-end Developer from Russia.
 </div>
 
 ---
-
-### :fire: My Stats :
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korchizhinskiy&layout=compact&theme=darcula)]e
